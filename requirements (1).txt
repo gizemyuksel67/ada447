@@ -1,0 +1,6 @@
+# requirements.txt for Hugging Face Space with FastAI threshold-based classifier
+fastai==2.7.12
+torch
+gradio
+numpy<2
+
