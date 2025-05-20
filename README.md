@@ -7,7 +7,7 @@ A confidence-based thresholding system was also implemented to detect unknown or
 
 ## Features
 
-* 📷 Image classification for 38 plant disease categories
+* 📷 Image classification for 15 plant disease categories
 * 🔍 Comparison of multiple CNN architectures
 * 🧠 Transfer learning with fine-tuning
 * ⚠️ Confidence thresholding for unknown detection
